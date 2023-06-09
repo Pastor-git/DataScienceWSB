@@ -1,0 +1,3 @@
+python -m notebook - działa
+community nie wspiera jupyter notebook
+https://www.datageeks.pl/geeks-blog/40-instalacja-i-korzystanie-z-jupyter-notebook
